@@ -1,0 +1,10 @@
+## catalog
+tmp/
+
+## file
+*_old
+*_backup
+
+## file
+Thumbs.db
+*.DS_Store
